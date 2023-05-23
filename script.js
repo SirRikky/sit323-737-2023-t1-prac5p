@@ -7,6 +7,7 @@ let users = [
     {id: 1, name: 'John' },
     {id: 2, name: 'Jane' },
     {id: 3, name: 'Rikky' },
+    {id: 4, name: 'Emily' },
 ]
 
 // Responds (gets) with all users as a json object in the browser
