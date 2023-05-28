@@ -19,4 +19,4 @@ spec:
         - name: mynode
           image: gcr.io/sit323-23t1-kincaid-24df7e9/sit323-737-2023-t1-prac5p:latest
           ports:
-            - containerPort: 8080
+            - containerPort: 3000
