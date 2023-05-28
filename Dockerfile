@@ -11,7 +11,7 @@ RUN npm install
 COPY script.js .
 
 # port and .js file of the app
-EXPOSE 3040
+EXPOSE 3000
 CMD [ "node", "script.js" ]
 
 
